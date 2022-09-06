@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SedolValidator.Tests/Properties
+/SedolValidator.Tests/obj/Debug
+/SedolValidator.Tests/bin/Debug
+/Sedol/obj
+/Sedol/bin/Debug
+/.vs/Sedol
